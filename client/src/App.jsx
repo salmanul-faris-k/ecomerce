@@ -2,7 +2,7 @@ import { Navigate, Route, Routes } from 'react-router-dom'
 import './App.css'
 import { Toaster } from 'sonner'
 import { Suspense, lazy } from 'react'
-import Productsroutes from './productsroutes'
+import Productsroutes from './Productsroutes'
 import AuthVerify from './AuthVerify'
 
 // ✅ Lazy-loaded components
